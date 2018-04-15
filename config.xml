@@ -35,7 +35,7 @@
     <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0" />
     <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
 	
-	<uses-permission android:name="android.permission.READ_PHONE_STATE" tools:node="remove" />
+	
 	
     <icon src="icon.png" />
 	
